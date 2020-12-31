@@ -401,4 +401,4 @@ terraform destroy -auto-approve
 
 ## Thank You!!!
 
-Author: [Ashutosh Pandey :))](https://www.linkedin.com/pulse/cloud-computing-part-3-ashutosh-pandey/)
+
